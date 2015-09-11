@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reindeer/ModelUser.swift"
+            timestampString = "463630239.314826"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ModelUser"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reindeer/Serializer.swift"
+            timestampString = "463639058.654871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reindeer/NetworkCall.swift"
+            timestampString = "463669391.817483"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "writeOrUpdateSeachPhare(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.NetworkCall.(shouldGetData in _B3F7F3565FB00EE8CD59BA6CF6F235D8) (Reindeer.NetworkCall)() -&gt; ()"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/NetworkCall.swift"
+                  timestampString = "463665188.111108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.NetworkCall.((shouldGetData in _B3F7F3565FB00EE8CD59BA6CF6F235D8) (Reindeer.NetworkCall) -&gt; () -&gt; ()).(closure #1)"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/NetworkCall.swift"
+                  timestampString = "463665188.111691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reindeer/NetworkCall.swift"
+            timestampString = "463669391.817483"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "writeOrUpdateSeachPhare(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.NetworkCall.(shouldGetData in _B3F7F3565FB00EE8CD59BA6CF6F235D8) (Reindeer.NetworkCall)() -&gt; ()"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/NetworkCall.swift"
+                  timestampString = "463665384.397178"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.NetworkCall.((shouldGetData in _B3F7F3565FB00EE8CD59BA6CF6F235D8) (Reindeer.NetworkCall) -&gt; () -&gt; ()).(closure #2)"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/NetworkCall.swift"
+                  timestampString = "463665384.397413"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reindeer/NetworkCall.swift"
+            timestampString = "463669391.817483"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "shouldGetData()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reindeer/Model.swift"
+            timestampString = "463669391.817483"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "flatten()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.Model.categoryName.getter : Swift.Optional&lt;Reindeer.CategoryName&gt;"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/Model.swift"
+                  timestampString = "463668925.053484"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.Model.categoryName.setter : Swift.Optional&lt;Reindeer.CategoryName&gt;"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/Model.swift"
+                  timestampString = "463668925.054439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.Model.categoryName.materializeForSet : Swift.Optional&lt;Reindeer.CategoryName&gt;"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/Model.swift"
+                  timestampString = "463668925.054626"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reindeer.Model.init (Reindeer.Model.Type)() -&gt; Reindeer.Model"
+                  moduleName = "Reindeer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyawthan/Meera/iOS/Reindeer/Reindeer/Model.swift"
+                  timestampString = "463668925.054779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
